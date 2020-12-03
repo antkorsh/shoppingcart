@@ -21,7 +21,7 @@ public:
 
     /**
      * Prints the receipt to stdout. In the supermarket, stdout is captured by
-     * the receipt printer, which then prints it for tue customer.
+     * the receipt printer, which then prints it for the customer.
      */
     virtual void printReceipt() = 0;
 };
