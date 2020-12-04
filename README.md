@@ -8,7 +8,8 @@ The goal of the software is to record items as they're swiped through a supermar
 to print a receipt for the supermarket customer (multiple ShoppingCart::addItem calls, then a call
 to ShoppingCart::printReceipt). Candidates should reimplement ShoppingCart, but must adhere to the
 existing interface, IShoppingCart. Please make any decisions you feel appropriate in the absence of
-sufficient information.
+sufficient information and note them down for discussion at the onsite (in the PR subject, or with
+TODO comments).
 
 Please note; there are no intentional tricks/traps in this project. Please work-around any bugs you
 discover & note them for the discussion.
